@@ -13,7 +13,7 @@ import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.reactive.function.BodyInserters;
 
-
+// Run full integration test and wire Thymeleaf templates
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class UserControllerTest {
